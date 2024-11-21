@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science Web 3, Solidity, React**
 
-- 💬 Ask me about **React, Python, Javascript**
+- 💬 Ask me about ** Python,Power BI, Excel, SQL,R, Javascript, React, CSS**
 
 - 📫 How to reach me **successzero7@gmail.com**
 
