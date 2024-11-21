@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=successogbenna" alt="successogbenna" /></a> </p>
 
-- 🌱 I’m currently learning **Web 3, Solidity, React**
+- 🌱 I’m currently learning **Data Science Web 3, Solidity, React**
 
 - 💬 Ask me about **React, Python, Javascript**
 
