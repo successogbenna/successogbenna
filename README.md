@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/successogbenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="successogbenna" height="30" width="40" /></a>
-<a href="https://twitter.com/successogbenna" target="blank"><a href="https://www.linkedin.com/in/successogbenna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="successogbenna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
