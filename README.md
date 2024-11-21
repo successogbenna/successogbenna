@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/successogbenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="successogbenna" height="30" width="40" /></a>
-![image](https://github.com/user-attachments/assets/1ea64297-c7d8-40e3-856b-3afdba77579e)
 
 
 </p>
